@@ -1,0 +1,2867 @@
+ome stpuaoshdfa[osihfga
+asl'dfgkjasfdga
+sfkg
+afkdg
+a[dflkg
+a[dfkg
+a[dfkga
+[dfgkLast login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+ome stpuaoshdfa[osihfga
+asl'dfgkjasfdga
+sfkg
+afkdg
+a[dflkg
+a[dfkg
+a[dfkga
+[dfgk
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+ome stpuaoshdfa[osihfga
+asl'dfgkjasfdga
+sfkg
+afkdg
+a[dflkg
+a[dfkg
+a[dfkga
+[dfgk
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+ome stpuaoshdfa[osihfga
+asl'dfgkjasfdga
+sfkg
+afkdg
+a[dflkg
+a[dfkg
+a[dfkga
+[dfgk
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+sfkg
+afkdg
+a[dflkg
+a[dfkg
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+sfkg
+afkdg
+a[dflkg
+a[dfkg
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+~
+~
+~
+~
+~
+~
+-- INSERT --
+
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+Last login: Thu Feb 28 11:01:42 on ttys006
+Aarons-MacBook-Pro:~ aaronrosenberg$ pwd
+/Users/aaronrosenberg
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd go
+Aarons-MacBook-Pro:go aaronrosenberg$ cd src
+Aarons-MacBook-Pro:src aaronrosenberg$ ls
+expalytics		hello			testfile.txt
+gitalytics		node_modules		testrepo
+github.com		package-lock.json	yarn.lock
+golang.org		shaun
+Aarons-MacBook-Pro:src aaronrosenberg$ cd testrepo/
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ ls
+testfile.txt
+Aarons-MacBook-Pro:testrepo aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:src aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:go aaronrosenberg$ cd ..
+Aarons-MacBook-Pro:~ aaronrosenberg$ ls
+Applications			Music
+Desktop				Pictures
+Documents			Projects
+Downloads			Public
+Google Drive File Stream	go
+Library				google-cloud-sdk
+Movies
+Aarons-MacBook-Pro:~ aaronrosenberg$ cd Projects/
+Aarons-MacBook-Pro:Projects aaronrosenberg$ ls
+Feeder			inkscape
+git-history		testMergeCommits
+Aarons-MacBook-Pro:Projects aaronrosenberg$ cd testMergeCommits/
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ pwd
+/Users/aaronrosenberg/Projects/testMergeCommits
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ ls
+Contributors - Report 2b@2x.png	file2.txt
+README.md			file3.js
+file1.ts
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ touch .coverage
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vime .coverage
+-bash: vime: command not found
+Aarons-MacBook-Pro:testMergeCommits aaronrosenberg$ vim .coverage
+
+a[dfkga
+[dfgk
+~
+~
+~
+~
+~
+~
+~
+~
+idads
+asdf
+gafd
+gadf
+ga
+dfg
+adfb
+adf
+ba
+dfb
+adfb
+ad
+fb~
+-- INSERT --
+
